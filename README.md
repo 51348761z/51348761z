@@ -1,7 +1,10 @@
-<!-- <h1 align="center">Hi , I'm 51348761z <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%2051348761z&fontSize=70&animation=fadeIn&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20profile!&fontSize=70&animation=fadeIn&fontAlignY=50)
+
+<h1 align="center">Hi , I'm 51348761z <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <!--## Hi there 👋 -->
-## 🚀 Welcome to my profile!
+
+## 👨‍💻 About Me
 
 - 🎓 I’m currently pursuing a Master's degree in **Computer Technology** at **Guangxi University**.
 - 💼 I previously worked as an **Embedded Software Engineer** for nearly 2 years.
