@@ -1,5 +1,9 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (51348761z)" title="👋 Hi there! I'm (51348761z)"/>]
-<!-- ## Hi there 👋 -->
+<h1 align="center">Hi , I'm 51348761z <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!--## Hi there 👋 -->
+## Welcome to my profile!
+- 🌱 I’m currently learning web development.
+
 
 ## Stats
 
