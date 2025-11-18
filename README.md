@@ -2,8 +2,40 @@
 
 <!--## Hi there 👋 -->
 ## Welcome to my profile!
-- 🌱 I’m currently learning web development.
 
+- 🎓 I’m currently pursuing a Master's degree in **Computer Technology** at **Guangxi University**.
+- 💼 I previously worked as an **Embedded Software Engineer** for nearly 2 years.
+- 🌱 I’m currently learning **Web Development**.
+- 
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,html,css,latex,md" />
+  </a>
+</p>
+
+### 🌐 Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,vite,pytorch,anaconda" />
+  </a>
+</p>
+
+### 🗄️ Database, Cloud & OS
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis,docker,kubernetes,linux,ubuntu,debian,arch" />
+  </a>
+</p>
+
+### ⚙️ Tools & IDEs
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,idea,webstorm,pycharm,clion,vscode,vim,neovim" />
+  </a>
+</p>
 
 ## Stats
 
