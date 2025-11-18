@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20profile!&fontSize=70&animation=fadeIn&fontAlignY=50)
-
 <h1 align="center">Hi , I'm 51348761z <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--## Hi there 👋 -->
@@ -42,10 +41,11 @@
 
 ## 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=51348761z)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=51348761z)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🐍 My GitHub Contributions
 
