@@ -41,16 +41,37 @@
 
 ## 📊 Stats
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8" alt="Top Langs">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=51348761z&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=51348761z">
+  <img src="https://github-readme-stats.vercel.app/api?username=51348761z" alt="GitHub Stats">
+</picture>
+
+</div>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=51348761z)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 ### 🐍 My GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/51348761z/51348761z/blob/output/github-contribution-grid-snake.gif?raw=true" alt="GitHub Contributions Snake" style="width: 90%;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/51348761z/51348761z/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/51348761z/51348761z/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/51348761z/51348761z/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <!--
