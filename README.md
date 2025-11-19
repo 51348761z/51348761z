@@ -44,9 +44,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8" alt="Top Langs">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ip49aii11-wongs-projects-814ab290.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ip49aii11-wongs-projects-814ab290.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8">
+  <img src="https://github-readme-stats-ip49aii11-wongs-projects-814ab290.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8" alt="Top Langs">
 </picture>
 
 <picture>
