@@ -42,9 +42,9 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-ip49aii11-wongs-projects-814ab290.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=12&theme=dark&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&cache_bust=fix" alt="Top Langs" />
+  <img src="https://github-readme-stats-ip49aii11-wongs-projects-814ab290.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=12&theme=dark&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
   
-  <img src="https://github-readme-stats-ip49aii11-wongs-projects-814ab290.vercel.app/api?username=51348761z&theme=dark&show_icons=true&count_private=true&cache_bust=fix" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ip49aii11-wongs-projects-814ab290.vercel.app/api?username=51348761z&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
