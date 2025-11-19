@@ -42,9 +42,19 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-ip49aii11-wongs-projects-814ab290.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=12&theme=dark&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
-  
-  <img src="https://github-readme-stats-ip49aii11-wongs-projects-814ab290.vercel.app/api?username=51348761z&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-iota-24.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=12&theme=dark&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-iota-24.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=12&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5">
+  <img src="https://github-readme-stats-seven-iota-24.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=12&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Langs">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-iota-24.vercel.app/api?username=51348761z&theme=dark&show_icons=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-iota-24.vercel.app/api?username=51348761z&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats-seven-iota-24.vercel.app/api?username=51348761z&show_icons=true&count_private=true" alt="GitHub Stats">
+</picture>
+
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
