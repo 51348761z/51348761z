@@ -44,9 +44,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-iota-24.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=12&theme=dark&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,Vue">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-iota-24.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=12&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,Vue">
-  <img src="https://github-readme-stats-seven-iota-24.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=12&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,Vue" alt="Top Langs">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-iota-24.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&theme=dark&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,Vue">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-iota-24.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,Vue">
+  <img src="https://github-readme-stats-seven-iota-24.vercel.app/api/top-langs/?username=51348761z&layout=compact&langs_count=8&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,Vue" alt="Top Langs">
 </picture>
 
 <picture>
